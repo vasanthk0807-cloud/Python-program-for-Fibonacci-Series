@@ -1,4 +1,4 @@
-# Python-program-for-Fibonacci-Series
+# Python-program-for-Fibonacci-Series(pls click on edit option to view code in proper way)
 n = int(input("How many terms? "))
 a = 0
 b = 1
